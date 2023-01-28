@@ -1,0 +1,15 @@
+C:\Users\lenov\source\repos\PROYECTO\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\lenov\source\repos\PROYECTO\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\lenov\source\repos\PROYECTO\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\lenov\source\repos\PROYECTO\Logica\bin\Debug\net6.0\Datos.dll
+C:\Users\lenov\source\repos\PROYECTO\Logica\bin\Debug\net6.0\Datos.pdb
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\Logica.pdb
+C:\Users\lenov\source\repos\PROYECTO\Logica\obj\Debug\net6.0\ref\Logica.dll
